@@ -10,6 +10,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/maghraby6271)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/b_X51kkBIq4)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahmanfekrymaghrby@gmail.com)
+[![GitBook](https://img.shields.io/badge/Security_Notebook-3884FF?style=flat-square&logo=gitbook&logoColor=white)](https://abdelrahman-el-maghraby.gitbook.io/security-engineering-notebook/)
 
 </div>
 
